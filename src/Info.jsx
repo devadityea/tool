@@ -34,7 +34,7 @@ function Info() {
           <p>Creating visual art is now easier than before.Just enter a text</p>
           <br />
           <p>
-            prompt to describe the image you want,and Fotot's AI art generator
+            prompt to describe the image you want,and Artify's AI art generator
             will
           </p>
           <br />
@@ -52,7 +52,7 @@ function Info() {
             watercolor,oil painting,and more.Unleash your imagination to create
           </p>
           <br />
-          <p>impressive AI art with Fotor now!</p>
+          <p>impressive AI art with Artify!</p>
           <br />
           <br />
         </div>
