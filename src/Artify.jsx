@@ -1,6 +1,6 @@
 import React from "react";
 import "./artify.css";
-import Info from "./Info";
+//import Info from "./Info";
 // import mainimg from "./cat.gif";
 function Artify() {
   return (
